@@ -1,5 +1,5 @@
-\name{donner}
-\alias{donner}
+\name{Donner}
+\alias{Donner}
 \docType{data}
 \title{Donner party}
 \description{
@@ -14,20 +14,20 @@ from Johnson (1996).}
 \format{This data frame uses the person's name as row labels 
 and contains the following columns:
  \describe{
-    \item{Age}{
+    \item{age}{
  Approximate age in 1846
     }
-    \item{Outcome}{
- 1 if survived, 0 if died
+    \item{y}{
+ died or survived, a factor
     }
-    \item{Sex}{
+    \item{sex}{
  Male or Female
     }
-    \item{Family.name}{
+    \item{family.name}{
  Either a family name, hired or single
     }
-    \item{Status}{
- Family, single or hired
+    \item{status}{
+ A factor with levels Family, Single or Hired
     }
  }
 }
@@ -35,9 +35,9 @@ and contains the following columns:
 \source{Johnson, K. (1996). \emph{Unfortunate Emigrants: Narratives of the
 Donner Party.} Logan, UT: Utah State University Press, 
 \url{http://www.metrogourmet.com/crossroads/KJhome.htm}.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
-head(donner)
+head(Donner)
 }
 \keyword{datasets}

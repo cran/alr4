@@ -27,7 +27,7 @@ Weisberg, H., Beier, H., Brody, H., Patton, R., Raychaudhari, K., Takeda, H.,
 Thern, R. and Van Berg, R. (1978).
 s-dependence of proton fragmentation by hadrons. II.  Incident laboratory
 momenta, 30--250 GeV/c.  \emph{Physics Review D}, 17, 2875--2887.  }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(physics1)

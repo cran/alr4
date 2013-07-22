@@ -17,7 +17,7 @@ Lake, Wisconsin, in three periods with different management method in place.
 \source{
 Michelle LeBeau
 }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th edition. Hoboken NJ: Wiley.}
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th edition. Hoboken NJ: Wiley.}
 \examples{
 head(walleye)
 }

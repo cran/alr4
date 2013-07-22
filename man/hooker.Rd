@@ -1,5 +1,5 @@
-\name{hooker}
-\alias{hooker}
+\name{Hooker}
+\alias{Hooker}
 \docType{data}
 \title{Hooker's data}
 \description{
@@ -7,19 +7,22 @@ In his original paper, Forbes provided additional data collected by the botanist
 }
 \format{This data frame contains the following columns:
  \describe{
-    \item{Temp}{
+    \item{bp}{
 Measured boiling temperature, degrees F. 
     }
-    \item{Pressure}{
+    \item{pres}{
 Measured air pressure, inches of Mercury. 
+    }
+    \item{lpres}{
+100 times pres rounded to two decimals.
     }
  }
 }
 
 \source{Forbes, J. (1957). Further experiments and remarks on the measurement of heights by boiling point of water. \emph{Transactions of the Royal Society of Edinburgh}, 21, 235-243.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
-head(hooker)
+head(Hooker)
 }
 \keyword{datasets}

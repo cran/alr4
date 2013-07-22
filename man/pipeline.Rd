@@ -35,7 +35,7 @@ Batch number
 \source{
 \url{http://www.itl.nist.gov/div898/handbook/pmd/section6/pmd621.htm}
 }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(pipeline)

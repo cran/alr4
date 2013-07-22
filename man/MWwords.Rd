@@ -35,7 +35,7 @@ Word rank in \emph{Ulysses}
 }
 
 \source{Mosteller, F. and Wallace, D. (1964). \emph{Inference and Disputed Authorship: The Federalist.} Reading, MA: Addison-Wesley.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(MWwords)

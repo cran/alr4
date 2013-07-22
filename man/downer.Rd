@@ -1,5 +1,5 @@
-\name{downer}
-\alias{downer}
+\name{Downer}
+\alias{Downer}
 \docType{data}
 \title{Downer data}
 \description{
@@ -16,32 +16,32 @@ they survived.
 }
 \format{This data frame contains the following columns:
  \describe{
-    \item{Calving}{
- 0 if measured before calving, 1 if after
+    \item{calving}{
+ a factor with levels before and after
     }
-    \item{Daysrec}{
+    \item{daysrec}{
  Days recumbent
     }
-    \item{CK}{
+    \item{ck}{
  Serum creatine phosphokinase (U/l at 30C)
     }
-    \item{AST}{
+    \item{ast}{
  serum asparate amino transferase (U/l at 30C)
     }
-    \item{Urea}{
+    \item{urea}{
  serum urea (mmol/l)
     }
-    \item{PCV}{
+    \item{pcv}{
  Packed Cell Volume (Haemactocrit), %
     }
-    \item{Inflamat}{
+    \item{inflamat}{
  inflamation 0=no, 1=yes
     }
-    \item{Myopathy}{
- Muscle disorder, 1 if present, 0 if absent
+    \item{myopathy}{
+ Muscle disorder, a factor with levels present, and absent
     }
-    \item{Outcome}{
- outcome:  1 if survived, 0 if died or killed
+    \item{outcome}{
+ a factor with levels died and survived
     }
  }
 }
@@ -51,9 +51,9 @@ Clark, R. G., Henderson, H. V., Hoggard, G. K. Ellison, R. S. and Young,
 B. J. (1987).  The abiltiy of biochemical and haematolgical
 tests to predict recovery in periparturient recumbent cows.
 \emph{NZ Veterinary Journal}, 35, 126-133.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
-head(downer)
+head(Downer)
 }
 \keyword{datasets}

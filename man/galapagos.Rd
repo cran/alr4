@@ -36,7 +36,7 @@ and contains the following columns:
 }
 
 \source{Johnson, M.P., and Raven, P.H. (1973). Species number and endemism: The Galapagos Archipelago revisited. \emph{Science}, 179, 893-895.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(galapagos)

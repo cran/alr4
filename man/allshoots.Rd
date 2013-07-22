@@ -32,7 +32,7 @@ only.
 \source{Bland, J. (1978). A comparisonof certain aspects of ontogeny in the long
 and short shoots of McIntosh apple during one annual growth cycle.  Unpublished 
 Ph. D. dissertation, University of Minnesota, St. Paul, Minnesota.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th edition.
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th edition.
 Hoboken NJ: Wiley.}
 
 \examples{

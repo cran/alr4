@@ -22,7 +22,7 @@ Artificial data item.
 \source{
 R. D. Cook and S. Weisberg (1999), Graphs in statistical analysis:  Is
 the medium the message? \emph{American Statistician,}  53, 29-37.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(caution)

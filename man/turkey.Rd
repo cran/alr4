@@ -31,7 +31,7 @@ m, always 5 except for dose=0, average weight gain, and within group SS.
 \source{
 R. D. Cook and J. Witmer (1985). A note on parameter-effects curvature.
 \emph{Journal of the American Statistical Association}, 80, 872--878.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(turkey)

@@ -20,7 +20,7 @@ January to June snowfall, inches
 }
 
 \source{\url{http://ccc.atmos.colostate.edu/cgi-bin/monthlydata.pl}}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(ftcollinssnow)

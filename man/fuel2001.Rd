@@ -38,7 +38,7 @@ labels are the two-digit US Postal abbreviations for the US states.
 }
 
 \references{
-Weisberg, S. (in press). \emph{Applied Linear Regression}, third edition.  New
+Weisberg, S. (2014). \emph{Applied Linear Regression}, third edition.  New
 York:  Wiley.}
 
 \examples{

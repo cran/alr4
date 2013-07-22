@@ -32,7 +32,7 @@ The data summarize the results of the first Florida Area Cumulus Experiment, or 
 }
 
 \source{Woodley, W.L., Simpson, J., Biondini, R., and Berkley, J. (1977). Rainfall results 1970-75: Florida area cumulus experiment. \emph{Science}, 195, 735-742.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(cloud)

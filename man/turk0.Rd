@@ -18,7 +18,7 @@ varied.
 }
 
 \source{Cook, R. D. and Witmer, J. (1985). A note on the parameter-effects curvature. \emph{Journal of the American Statistical Association}, 80, 872-878.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(turk0)

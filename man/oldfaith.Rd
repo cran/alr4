@@ -21,7 +21,7 @@ midnight and 6 AM.
 }
 
 \source{R. Hutchinson}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(oldfaith)

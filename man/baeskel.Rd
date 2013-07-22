@@ -18,7 +18,7 @@ Decrease in surface tension, dynes/cm
 Baes, C. and Kellogg,  H. (1953).  Effect of dissolved sulphur on the
 surface tension of liquid copper.  \emph{J. Metals}, 5, 643-648.}
 
-\references{Weisberg, S. (in press).  \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014).  \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 
 \examples{

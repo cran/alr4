@@ -20,13 +20,12 @@ contains the following columns:
  These data were collected at published by the UN from a variety of sources.
  See original source for additional footnotes concerning values for
  individual countries.  Country names are given in the first column of the
- data file.  The same data, plus additional variables, is given in
- the file \link{UN3}.
+ data file. 
 }
 \source{
  \url{http://unstats.un.org/unsd/demographic}
 }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(UN1)

@@ -23,7 +23,7 @@ capture to the radius of the scale.
 Collected by Richard Frie, and discussed
 in S. Weisberg (1986), A linear model approach to the backcalculation of
 fish length, \emph{J. Amer. Statist. Assoc.}, 81, 922-929.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(lakemary)

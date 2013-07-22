@@ -44,7 +44,7 @@ contains the following columns:
 
 \source{Union Bank of Switzerland report, \emph{Prices and Earnings Around
 the Globe} (2003 version), from \url{http://www.ubs.com/1/e/ubs_ch/wealth_mgmt_ch/research.html}.}
-\references{Weisberg, S. (in press).  \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014).  \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(BigMac2003)

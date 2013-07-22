@@ -1,64 +1,29 @@
 #  Code in the alr4 package
-#  Only alrWeb and alr4Web are exported
-#  Eventually, make these the same function.
 #  December 12, 2012
+#  Revised July 1, 2013
  
-
-alrWeb <-
-function (page = c("webpage", "errata", "primer"), script)
-{
-    script.page <- "http://www.stat.umn.edu/alr/Links/scripts/"
-    page <- match.arg(page)
-    urls <- c(webpage = "http://www.stat.umn.edu/alr/", 
-        errata = "http://www.stat.umn.edu/alr/Links/errata.pdf", 
-        primer = "http://www.stat.umn.edu/alr/Links/Rprimer.pdf")
-    url <- urls[page]
-    if(!missing(script)) url <- paste(script.page, script, ".R", sep="")
-    browseURL(url)
-}
-
 alr4Web <-
-function (page = c("webpage", "errata", "primer", "facebook"), script)
+function (page = c("webpage", "errata", "primer", "solutions"))
 {
-    script.page <- "http://www.stat.umn.edu/~sandy/alr4ed/Links4/scripts4/"
     page <- match.arg(page)
-    urls <- c(webpage = "http://www.stat.umn.edu/~sandy/alr4ed", 
-        errata = "http://www.stat.umn.edu/~sandy/alr4ed/Links4/errata4.pdf", 
-        primer = "http://www.stat.umn.edu/~sandy/alr4ed/Links4/Rprimer4.pdf",
-        facebook= "http://www.facebook.com/alr4ed")
+    site <- "http://www.stat.umn.edu/~sandy/alr4ed"
+    urls <- c(
+        webpage   = site,
+        errata    = paste(site, "/links/errata.pdf", sep=""),
+        primer    = paste(site, "/links/alrprimer.pdf", sep=""),
+        solutions = paste(site, "/links/alrsolutions.pdf", sep=""))
     url <- urls[page]
-# temporary
-    if(!missing(script)) return("Scripts not ready yet for 4th edition")
-    if(page == "errata") return("No errata available")
-#    if(!missing(script)) url <- paste(script.page, script, ".R", sep="")
     browseURL(url)
 }
 
 
 
 # Written 12/26/2012 S. Weisberg
-# Not currently exported, so no one knows this is here
-logOffset <- function(x, offset= rep(1, dim(x)[2]), skip=NULL){
-# x is a matrix or data frame
-# returns an object like x with j-th column replaced by
-#    x[, j] if x is other than of type numeric or integer
-#    x[, j] if j %in% skip
-#    log(x[, j]) if x[, j] is strictly positive
-#    log(x[, j] + offset[j] = min(x[, j], na.rm=TRUE)) 
-#                 if x[, j] has nonpositive elements 
-  for(j in 1:dim(x)[2]){
-    if( (class(x[, j]) %in% c("numeric", "integer")) & !(j %in% skip)){
-       x[, j] <- if((m <- min(x[ ,j], na.rm=TRUE)) <= 0)
-                     log(x[ ,j] + m + offset[j]) else
-                     log(x[, j])}}
-    x}
- 
+# Not exported, so no one knows this is here
 # Override for print.summary.lm
 # adds argument 'short=FALSE'
-# if short os TRUE, some of the output is skipped
+# if short is TRUE, some of the output is skipped
 # Used to get shorter output for Applied Linear Regression 4th Ed.
-# Nov 24, 2012 by S. Weisberg
-# Not currently exported.
 
 print.summary.lm <-
 function (x, digits = max(3, getOption("digits") - 3), symbolic.cor = x$symbolic.cor,

@@ -20,7 +20,7 @@ The data give the water content of snow and the water yield in inches in the Sna
 \dQuote{Res. Notes}, 61, Pacific Northwest Forest Range Experiment Station,
 Oregon.}
 
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(snake)

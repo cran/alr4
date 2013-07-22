@@ -34,7 +34,7 @@ The file \code{ufc} contains all the data.
 Andrew Robinson
 }
 \references{
-Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th  edition.  New
+Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th  edition.  New
 York:  Wiley.}
 \examples{
 head(ufcgf)

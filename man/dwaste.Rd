@@ -33,7 +33,7 @@ An experiment was conducted to study the \emph{O2UP}, oxygen uptake in milligram
 }
 
 \source{Moore, J. (1975). Total Biomedical Oxygen Demand of Animal Manures. Unpublished Ph. D. disseration, University of Minnesota.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(dwaste)

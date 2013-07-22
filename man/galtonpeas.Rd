@@ -20,7 +20,7 @@ In a paper presented to the Royal Institute on February 9, 1877, Sir Francis Gal
 }
 
 \source{Pearson, K. (1930). \emph{Life and Letters and Labours of Francis Galton}, Vol IIIa. Cambridge: Cambridge University Press.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(galtonpeas)

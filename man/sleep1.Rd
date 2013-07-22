@@ -45,7 +45,7 @@ Allison, T. and Cicchetti, D. (1976).
 Sleep in
 Mammals: Ecological and Constitutional Correlates 
 \emph{Science}, vol. 194, pp. 732-734.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(sleep1)

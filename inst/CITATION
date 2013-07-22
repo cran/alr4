@@ -4,14 +4,14 @@ citEntry(entry = "Book",
   title        = "Applied Linear Regression",
   edition	   = "Fourth",
   author       = personList(as.person("Sanford Weisberg")),
-  year         = "2013",
+  year         = "2014",
   publisher    = "Wiley",
   address      = "Hoboken {NJ}",
-  url          = "http://www.stat.umn.edu/alr",
+  url          = "http://z.umn.edu/alr4ed",
 
   textVersion  =
-  paste("Sanford Weisberg (2012).",
+  paste("Sanford Weisberg (2014).",
         "Applied Linear Regression, Fourth Edition.",
         "Hoboken NJ:  Wiley.",
-        "URL: http://www.stat.umn.edu/alr")
+        "URL: http://z.umn.edu/alr4ed")
 )

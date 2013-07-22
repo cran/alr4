@@ -1,29 +1,30 @@
-\name{titanic}
-\alias{titanic}
+\name{Whitestar}
+\alias{Whitestar}
 \docType{data}
-\title{Titanic}
+\title{Titanic Survivors}
 \description{
 For each person on board the fatal maiden voyage of the ocean liner
 Titanic, this dataset records sex, age (adult/child), economic status
 (first/second/third class, or crew) and whether or not that person
-survived. 
+survived.  The name of the company that owned the Titanic was White Star.
+Several versions of these data exist in the R universe. 
 }
 \format{This data frame contains the following columns:
  \describe{
-    \item{Surv}{
+    \item{surv}{
  Number of survivors
     }
-    \item{N}{
- Survivors + Deaths
+    \item{m}{
+ survivors + deaths
     }
-    \item{Class}{
+    \item{class}{
  Crew or passanger class
     }
-    \item{Age}{
- Adult or child
+    \item{age}{
+ adult or child
     }
-    \item{Sex}{
- Male or female
+    \item{sex}{
+ male or female
     }
  }
 }
@@ -33,9 +34,9 @@ Report on the Loss of the `Titanic' (S.S.) (1990), \emph{British Board of
 Trade Inquiry Report} (reprint), Gloucester, UK: Allan Sutton
 Publishing.  Taken from the \emph{Journal on Statistical Education Archive},
 submitted by rdawson@husky1.stmarys.ca.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
-head(titanic)
+head(Whitestar)
 }
 \keyword{datasets}

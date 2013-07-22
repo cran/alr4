@@ -28,7 +28,7 @@ female employees, and the name of the class.
 }
 
 \source{Sanford Weisberg}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(salarygov)

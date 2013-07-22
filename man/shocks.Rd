@@ -16,7 +16,7 @@ Results of a small experiment to learn about the effects of small electric shock
 \source{
  R. Norell
 }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(shocks)

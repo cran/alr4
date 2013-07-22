@@ -55,7 +55,7 @@ Institute of Sport.
 
 \source{Ross Cunningham and Richard Telford}
 \references{
-S. Weisberg (in press).  \emph{Applied Linear Regression}, 4th edition.  New York:
+S. Weisberg (2014).  \emph{Applied Linear Regression}, 4th edition.  New York:
 Wiley.}
 
 \examples{

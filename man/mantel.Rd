@@ -20,7 +20,7 @@
 Why stepdown procedures in variable selection? 
 \emph{Technometrics}, 12, 621--625.
 }
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(mantel)

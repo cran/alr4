@@ -47,7 +47,7 @@ of characteristics of each lake.  There are missing values.
 
 \source{Dodson, S. (1992), Predicting curstacean zooplankton species
 richness, \emph{Limnology and Oceanography}, 37, 848--856.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(lakes)

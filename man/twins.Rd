@@ -20,7 +20,7 @@ The given data are IQ scores from identical twins; one raised in a foster home, 
 }
 
 \source{Burt, C. (1966). The genetic estimation of differences in intelligence: A study of monozygotic twins reared together and apart. \emph{Br. J. Psych.}, 57, 147-153.}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4th
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(twins)

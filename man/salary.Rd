@@ -29,7 +29,7 @@ Salary of faculty in a small Midwestern college in the early 1980s.
 }
 
 \source{Sanford Weisberg}
-\references{Weisberg, S. (in press). \emph{Applied Linear Regression}, 4rd
+\references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4rd
 edition. Hoboken NJ: Wiley.}
 \examples{
 head(salary)
