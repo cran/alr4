@@ -1,4 +1,4 @@
-0fb8612ac201ce22985b67a4daa24103 *DESCRIPTION
+01ed144b5b0a58738a61354e5aea2086 *DESCRIPTION
 7ca8af74b810aaea081de440ba045ce7 *NAMESPACE
 093be35996087c6baf5ff2d48ea5c05e *R/alr4.R
 122db28dcfd41332e2c650e48417147e *R/zzz.R
@@ -21,7 +21,7 @@ a4ef675809c19e4dc59e2e8443b6329e *data/Whitestar.rda
 7831da3288efaa4dc499386b599e95aa *data/ais.rda
 6d462708a03bc3e82712344d1af3fe26 *data/allshoots.rda
 4f3339d4dd794b7515d1042b3458823c *data/baeskel.rda
-bb0bf53bc9825890c1d0c999050c86ef *data/blowdown.rda
+d9064788d51b93dc47ed151cd3d67967 *data/blowdown.rda
 93573909a4ddaca2b516430b296222e4 *data/brains.rda
 18f41d9cbfa5abc1dc2380cc2b090e33 *data/cakes.rda
 b5dac6fdd14675a67ac113345ebbb38a *data/cathedral.rda
@@ -80,7 +80,7 @@ e3e4842b9cf8303b9cb37e8d94fe01f3 *data/water.rda
 795f20e7f0c3cf14f651e1b7cee9b440 *data/wblake.rda
 db3ec03b8cd7c3fa5df51290391c9ba1 *data/wm1.rda
 a409c60dd03649c6ba1bf542e0375f46 *data/wm2.rda
-3fb81e629f7b3c8543bcd036550526dc *inst/CITATION
+5b3f32bab8791c9382e310ee282fdae8 *inst/CITATION
 c28bdbc5da0a0883b9c06e1d9b17d29f *inst/extdata/BGSall.txt
 7a093ed99eb8089b41275d51ebea8f4b *inst/extdata/BGSboys.txt
 bbe3a40829c842e93a56fe1be6c39772 *inst/extdata/BGSgirls.txt
@@ -183,7 +183,7 @@ fb4adbe03ba836d52f2423b8dab1c7c8 *man/Whitestar.Rd
 c8d7e757f49aedd6c128bff2aec97464 *man/alr4-package.Rd
 f83fa034f82b2800ab68ffdc95f7bf01 *man/alrWeb.Rd
 e5d7cad6f6b24eda7b6deab0917cd6c0 *man/baeskel.Rd
-8dc712c90924fe0067138617addba2ce *man/blowBF.Rd
+bd05726a078a8d2b7b71c0124bfbc4fb *man/blowBS.Rd
 a7cebdc2651a2f668f1a06e655ffbfe8 *man/blowdown.Rd
 d36a844e12eab38407b8e5c10182be83 *man/brains.Rd
 3194b866b9ad7f27deaa626dc1123c7c *man/cakes.Rd

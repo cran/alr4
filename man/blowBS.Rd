@@ -1,9 +1,10 @@
-\name{BlowBF}
-\alias{BlowBF}
-\title{Blowdown data, Balsam Fir only}
+\name{BlowBS}
+\alias{BlowBS}
+\title{Blowdown data, Black Spruce only}
 \description{
-Data from the Boundary Waters Canoe Area Wilderness Blowdown.  The data frame blowdown
-includes nine species of trees, but this file only includes paper birch, grouped
+Data from the Boundary Waters Canoe Area Wilderness Blowdown.  The data
+frame \code{Blowdown}
+includes nine species of trees, but this file only includes black spruce, grouped
 by diameter.
 }
 \format{This data frame contains the following columns:
@@ -21,7 +22,7 @@ number of trees of this size class measured
 }
 \source{Roy Rich}
 \examples{
-head(BlowBF)
+head(BlowBS)
 }
 \references{
 S. Weisberg (2014).  \emph{Applied Linear Regression}, fourth edition.  New York:  Wiley.

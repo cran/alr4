@@ -1,4 +1,4 @@
-citHeader("To cite the alr3 package in publications use:")
+citHeader("To cite the alr4 package in publications use:")
 
 citEntry(entry = "Book",
   title        = "Applied Linear Regression",
