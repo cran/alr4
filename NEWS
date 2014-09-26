@@ -1,0 +1,7 @@
+Changes to version 1.0.6
+    
+    o added a function called Summary (capital "S") as a front end to summary.lm with shorter output
+
+Changes to version 1.0.5
+
+    o changes in data file structure for compatiblity with Rcmdr

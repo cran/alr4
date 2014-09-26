@@ -107,3 +107,8 @@ function (x, digits = max(3, getOption("digits") - 3), symbolic.cor = x$symbolic
     cat("\n")
     invisible(x)
 }
+
+
+sumry <- function(mod, ...){
+  print.summary.lm(summary(mod), ..., short=TRUE)
+}
