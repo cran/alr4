@@ -1,7 +1,7 @@
-d5a414eb1fabe77f43fa2aad35b3236d *DESCRIPTION
-abf8e78367933121e927939955c0cd66 *NAMESPACE
-f07ba0656cf7cd0323c1444969207c1c *NEWS
-97afd55cc5bb2e8c1569701d7a58fe7e *R/alr4.R
+aac15baf6fe3403d80cc68925652177f *DESCRIPTION
+6811908cfdcb20e067e91a60cdd87c31 *NAMESPACE
+55a8970ac1e9cc9a7d0e52844c1519fe *NEWS
+0628a50db0b63ff89ad448b50f2de31a *R/alr4.R
 122db28dcfd41332e2c650e48417147e *R/zzz.R
 a95d5c6a0460ff613e6d2d9b5ea2f2d4 *data/BGSall.rda
 3eeb13f0ac7f0f3e4de23526c898b9c1 *data/BGSboys.rda
@@ -169,7 +169,7 @@ a0241d9b0443d94ca8402ed5b7ed7bdd *inst/extdata/wm3.txt
 bf9474e9964a7554479c2e007c14870a *inst/extdata/wm4.txt
 e973aca869912499cc560baff0fc539e *inst/extdata/wool.txt
 4c7e1de2b879753a002d52993cd93dd7 *man/BGSall.Rd
-5b130a1589ff183b4235acf7b935eccf *man/BigMac2003.Rd
+0e4f2face3fd069c8f17bc9be08d044e *man/BigMac2003.Rd
 c63b570a2230415cf65d93cc9a654fa3 *man/Forbes.Rd
 eb2b13a68072db0a17bc8e208c5bb34a *man/Heights.Rd
 72b7c25ecb804cb4a2b08044faf80c32 *man/Highway1.Rd
@@ -178,14 +178,13 @@ eb2b13a68072db0a17bc8e208c5bb34a *man/Heights.Rd
 1284764da0dfb04c6a58121f523f1777 *man/Rim.Rd
 420d1365ee0648058b0d456e9ed3e4d0 *man/Rpdata.Rd
 71dbd3bb4573ff6d7997084f686f8b7a *man/Stevens.Rd
-e839db8ee81405a81d5b87208052d19d *man/UBSprices.Rd
+a8a2cd0e7c24773879275d2acdd62b68 *man/UBSprices.Rd
 7a19003b062c9e07e65d04d169ce59f4 *man/UN1.Rd
-2916324dcde60d806dad036897f9514f *man/UN11.Rd
+dbee25123b8f2bf98d7d3b1de6a3614f *man/UN11.Rd
 f820925b5bbe5464f8c928c296fbac13 *man/WaterUse.Rd
 fb4adbe03ba836d52f2423b8dab1c7c8 *man/Whitestar.Rd
 5fbcb363a534f1cddbefa41e4460d7f9 *man/ais.Rd
 39fccb12b63a3931c3f6d4ae1e335ae4 *man/allshoots.Rd
-c8d7e757f49aedd6c128bff2aec97464 *man/alr4-package.Rd
 f83fa034f82b2800ab68ffdc95f7bf01 *man/alrWeb.Rd
 e5d7cad6f6b24eda7b6deab0917cd6c0 *man/baeskel.Rd
 bd05726a078a8d2b7b71c0124bfbc4fb *man/blowBS.Rd
@@ -201,7 +200,7 @@ ed74a060745c99f0e8299764509314f4 *man/domedata.Rd
 1c50150d01249059b43f3394cbd1f5c7 *man/downer.Rd
 0927510201b8d906df57b9a603efcfc1 *man/drugcost.Rd
 80f1a24d138b1656ab6ac9f6f5ae298e *man/dwaste.Rd
-746d22095a34906249a1ffec80f2284e *man/florida.Rd
+988c4b0f503c4a6c4819d4e1dfd4d0c8 *man/florida.Rd
 054ab1aff950c20a07b5dbc4bcdf83f3 *man/ftcollinssnow.Rd
 578c77e61a8c7a7ec78da1286f81b533 *man/ftcollinstemp.Rd
 bcfdcecb97515c7b7ee09c5066301c47 *man/fuel2001.Rd
@@ -223,7 +222,7 @@ a3cac9aa862c3bec918b371c90acec88 *man/mantel.Rd
 f29008452c2c310dd2a76f3e97b544e6 *man/prodscore.Rd
 d1b072f197cb1837f2163701130a910f *man/rat.Rd
 593e7c9376b81d2a61bbdf455799cb10 *man/rateprof.Rd
-ab59fd33dbb9003b99594fb65334981d *man/salary.Rd
+d930289444e927b34097dc2b60e7d231 *man/salary.Rd
 24618aa6d57a59dec5436d092460d958 *man/salarygov.Rd
 7cb44c1d7c0b67aa84983ef53022c1f8 *man/segreg.Rd
 d71bf64c5dc13b8ff0ac065b2dafe5a6 *man/shocks.Rd

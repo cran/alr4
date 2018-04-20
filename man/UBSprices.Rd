@@ -28,7 +28,7 @@ and price levels.
 City names are the row labels.
 }
 \source{
-\url{http://www.ubs.com/global/en/wealth_management/wealth_management_research/prices_earnings.html}
+Union Bank of Switzerland
 }
 \examples{
 data(UBSprices)

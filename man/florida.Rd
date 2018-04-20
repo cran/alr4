@@ -13,10 +13,7 @@ County-by-county vote for president in Florida in 2000 for Bush, Gore and Buchan
     \item{Buchanan}{Vote for Buchanan}
   }
 }
-\source{
-\url{http://www.abcnews.go.com.sections/politics/2000vote/general/FL_county.html}.
-This web address does not seem to exist any longer.
-}
+
 \references{
 Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th edition.
 Hoboken NJ: Wiley.

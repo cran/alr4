@@ -1,21 +1,19 @@
 Package: alr4
-Version: 1.0.5
-Date: 2014/9/26
-Title: Data to accompany Applied Linear Regression 4rd edition
+Version: 1.0.6
+Date: 2018-04-20
+Title: Data to Accompany Applied Linear Regression 4th Edition
 Author: Sanford Weisberg <sandy@umn.edu>
 Maintainer: Sanford Weisberg <sandy@umn.edu>
-Depends: R (>= 2.1.1), car, effects
+Depends: R (>= 3.0), car, effects
+LazyLoad: yes
 LazyData: yes
-Description: This package is a companion to the textbook S. Weisberg (2014), 
- "Applied Linear Regression," 4rd edition, Wiley. It includes all the
- data sets discussed in the book and one function to access the textbook's
- website.  
- This package depends on the car package.  Many data files in this package
- are included in the alr3 package as well, so only one of them should be
- loaded.
+Description: Datasets to Accompany S. Weisberg (2014, ISBN: 978-1-118-38608-8), 
+ "Applied Linear Regression," 4th edition.  Many data files 
+ in this package are included in the `alr3` package as well, so only one of them 
+ should be used.
 License: GPL (>= 2)
-URL: http://www.r-project.org, http://www.z.umn.edu/alr4ed
-Packaged: 2014-09-26 16:47:11 UTC; sandy
+URL: http://www.z.umn.edu/alr4ed
 NeedsCompilation: no
+Packaged: 2018-04-20 12:57:29 UTC; sandy
 Repository: CRAN
-Date/Publication: 2014-09-26 19:07:48
+Date/Publication: 2018-04-20 14:25:58 UTC

@@ -35,7 +35,7 @@ on April 23, 2012.   OECD membership is from \url{www.oecd.org}, accessed
 May 25, 2012..
 }
 \references{
-Weisberg, S. (2014). \emph{Applied Linear Regression}, 4rd edition.
+Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th edition.
 Hoboken NJ: Wiley.
 }
 \examples{
