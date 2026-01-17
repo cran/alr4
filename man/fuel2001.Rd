@@ -7,7 +7,7 @@ Data on motor fuel consumption and related variables, for the year 2001.
 The unit is a state in the
 United States or the District of Columbia.  Data are for 2001, unless noted.
 }
-\format{This data frame contains the following columns.  Row 
+\format{This data frame contains the following columns.  Row
 labels are the two-digit US Postal abbreviations for the US states.
  \describe{
     \item{Drivers}{
@@ -34,7 +34,7 @@ labels are the two-digit US Postal abbreviations for the US states.
  }
 }
 \source{
-\url{http://www.fhwa.dot.gov/ohim/hs01/index.htm}
+U. S. Department of Transportation, Federal Highway Administration
 }
 
 \references{
@@ -43,7 +43,7 @@ York:  Wiley.}
 
 \examples{
 head(fuel2001)
-# Most of the examples in ALR3 that use these data first 
+# Most of the examples in ALR3 that use these data first
 # transform several of the columns
 fuel2001 <- transform(fuel2001,
      Dlic=1000 * Drivers/Pop,

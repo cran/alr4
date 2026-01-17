@@ -1,19 +1,23 @@
 Package: alr4
-Version: 1.0.6
-Date: 2018-04-20
+Version: 1.0.7
+Date: 2026-01-17
 Title: Data to Accompany Applied Linear Regression 4th Edition
-Author: Sanford Weisberg <sandy@umn.edu>
+Authors@R: person(given = "Sanford",
+                      family = "Weisberg",
+                      role = c("aut", "cre"),
+                      email = "sandy@umn.edu")
 Maintainer: Sanford Weisberg <sandy@umn.edu>
 Depends: R (>= 3.0), car, effects
 LazyLoad: yes
 LazyData: yes
-Description: Datasets to Accompany S. Weisberg (2014, ISBN: 978-1-118-38608-8), 
+Description: Datasets to Accompany S. Weisberg (2014), 
  "Applied Linear Regression," 4th edition.  Many data files 
- in this package are included in the `alr3` package as well, so only one of them 
+ in this package are included in the alr3 package as well, so only one of them 
  should be used.
 License: GPL (>= 2)
-URL: http://www.z.umn.edu/alr4ed
+URL: http://z.umn.edu/alr4ed
 NeedsCompilation: no
-Packaged: 2018-04-20 12:57:29 UTC; sandy
+Packaged: 2026-01-17 22:48:31 UTC; sandy
+Author: Sanford Weisberg [aut, cre]
 Repository: CRAN
-Date/Publication: 2018-04-20 14:25:58 UTC
+Date/Publication: 2026-01-17 23:10:02 UTC

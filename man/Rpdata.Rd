@@ -23,12 +23,11 @@ plotting residuals.
 }
 
 \source{
-Data generated using programs from
-\url{http://www4.stat.ncsu.edu/~stefanski/NSF_Supported/Hidden_Images/stat_res_plots.html}
+Data generated using programs from Leonard Stafanski.
 }
 \references{
 Stefanski, L. A. (2007).  Residual (sur)Realism.  The American Statistician,
-61, 163-177. url={https://www.amstat.org/about/pdfs/NCSUStatsProfSurpriseHomework.pdf}.
+61, 163-177.
 }
 \examples{
 data(Rpdata)

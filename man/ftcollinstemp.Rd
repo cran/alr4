@@ -8,7 +8,7 @@ Monthly average temperature data for Fort Collins, CO weather station 53005, 190
 \format{This data frame contains the following columns:
  \describe{
     \item{year}{
-Year corresponding to the September to November data 
+Year corresponding to the September to November data
     }
     \item{fall}{
 September to November mean temperature, degrees F
@@ -19,9 +19,10 @@ December to February mean temperature, degrees F
  }
 }
 
-\source{\url{http://ccc.atmos.colostate.edu/cgi-bin/monthlydata.pl}}
+\source{\url{https://www.atmos.colostate.edu}}
 \references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th edition. Hoboken NJ: Wiley.}
 \examples{
 head(ftcollinstemp)
 }
 \keyword{datasets}
+

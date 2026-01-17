@@ -21,19 +21,19 @@ Transportation.
 \format{This data frame contains the following columns:
  \describe{
     \item{Field}{
-Number of defects measured in the field. 
+Number of defects measured in the field.
     }
     \item{Lab}{
-Number of defects measured in the field. 
+Number of defects measured in the field.
     }
     \item{Batch}{
-Batch number 
+Batch number
     }
  }
 }
 
 \source{
-\url{http://www.itl.nist.gov/div898/handbook/pmd/section6/pmd621.htm}
+\url{https://www.nist.gov/itl}
 }
 \references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
@@ -41,3 +41,4 @@ edition. Hoboken NJ: Wiley.}
 head(pipeline)
 }
 \keyword{datasets}
+
